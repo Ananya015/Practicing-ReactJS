@@ -6,7 +6,12 @@ import './index.css';
 
 
 ReactDOM.render(
-  <Card/>,document.getElementById('root')
+  <div>
+  <Card/>
+  <Card/>
+  <Card/>
+  <Card/></div>
+  ,document.getElementById('root')
 );
 
 
