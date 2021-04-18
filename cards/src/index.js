@@ -5,13 +5,7 @@ import './index.css';
 
 
 
-ReactDOM.render(
-  <div>
-  <Card/>
-  <Card/>
-  <Card/>
-  <Card/></div>
-  ,document.getElementById('root')
+ReactDOM.render( <Card/>,document.getElementById('root')
 );
 
 
