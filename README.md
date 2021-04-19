@@ -1,5 +1,6 @@
 # Practicing-ReactJS
 
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -76,3 +77,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## What are Tachyons?
 ### Create fast loading, highly readable, and 100% responsive interfaces with as little css as possible.By learning the composable building blocks in tachyons, you can quickly start to build out interfaces while writing little to no css.
+=======
+Tachyons-
+Create fast loading, highly readable, and 100% responsive interfaces with as little css as possible.By learning the composable building blocks in tachyons, you can quickly start to build out interfaces while writing little to no css.
+>>>>>>> a11ecc86e948b5332b5f2b683656ed52da656534
